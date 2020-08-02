@@ -1,0 +1,13 @@
+{
+  "name": "csethics",
+  "author": {
+    "name": "Allegheny Mozilla Fellows",
+    "url": "https://csethics.allegheny.edu"
+  },
+  "license": "BSD-3-Clause",
+  "private": true,
+  "workspaces": [
+    "theme",
+    "site"
+  ]
+}

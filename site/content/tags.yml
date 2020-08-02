@@ -1,0 +1,9 @@
+- name: Projects
+  color: "#007acc"
+  icon: "./orange.png"
+  featured: true
+
+- name: Curricular Ethics
+  color: "#007acc"
+  icon: "./blue.png"
+  featured: true

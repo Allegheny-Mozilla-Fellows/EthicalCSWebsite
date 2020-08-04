@@ -4,7 +4,7 @@
     "name": "Allegheny Mozilla Fellows",
     "url": "https://csethics.allegheny.edu"
   },
-  "license": "BSD-3-Clause",
+  "license": "3-Clause BSD",
   "private": true,
   "workspaces": [
     "theme",

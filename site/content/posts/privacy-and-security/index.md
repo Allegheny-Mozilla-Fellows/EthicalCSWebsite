@@ -4,9 +4,13 @@ path: "/privacy-security-and-ethics"
 tags: ["Curricular Ethics"]
 featuredImage: "./security-banking.png"
 excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-created: 2020-08-01
-updated: 2020-08-01
+created: 2020-08-04
+updated: 2020-08-04
 ---
-"For my Mozilla project, I have created a web server that is connected to a database and the whole idea of this project is for the students to try and simulate hacking a website to extract valuable information. This web server kind of mimics what a bank website might be like. The type of information that the students can extract is someone’s salary, address, marital status as well as other information. The idea behind this is to think about the ethics of this. Just because you have the ability to hack something or someone, does that mean you should do it if it causes harm?"
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Databases contain lots of information of a personal nature. This project is centered on being classroom lab that focuses on the ease to hack a database (i.e., maliciously extracting data by a simple means), the necessity of security systems to protect the data, and the ethics involved in the protection from the exploitation of personal information. With the creation of this web server connected to a database, this lab resembles a bank's website being hacked which brings real life questions to the forefront.
+
+The lab itself leads the students through a tutorial of what SQL injection is, how it works, and how it can be used to harm someone. Students can extract types of information like someone’s salary, address, marital status as well as many other personal details.
+
+After the students are walked through this and learn the technical, they are then asked to reflect. The questions in this reflection guide students through ethical thinking. Just because you have the ability to hack something or someone, does that mean you should do it if it causes harm? Is it necessary for banks to ask and store all these personal details?
+This project, in summary, is to develop a students' understanding of how data, security and ethics must be carefully integrated to procure privacy.

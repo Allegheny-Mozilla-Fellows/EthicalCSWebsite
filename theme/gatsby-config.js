@@ -34,7 +34,7 @@ module.exports = (themeOptions) => {
           path: '/about'
         },
         {
-          name: 'Archive',
+          name: 'Projects',
           path: '/archive'
         }
       ],

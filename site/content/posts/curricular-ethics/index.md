@@ -1,7 +1,7 @@
 ---
 title: "Curricular Ethics"
 path: "/curricular-ethics"
-tags: ["Projects"]
+tags: ["Featured"]
 featuredImage: "./demo.JPG"
 excerpt: Training students in building a healthier internet for all is essential if we want to create a shift in the tech industry where the software is being developed with ethical considerations in mind.
 created: 2020-02-12

@@ -25,7 +25,7 @@ Changes that are cosmetic in nature and do not add anything substantial to the s
 
 ## Do you want to contribute to the website's documentation?
 
-You can help improve the website guides by making them more coherent, consistent, or readable, adding missing information, correcting factual errors, fixing typos, or bringing them up to date with the latest edge Rails.
+You can help improve the website guides by making them more coherent, consistent, or readable, adding missing information, correcting factual errors, fixing typos, or bringing them up to date with the latest //.
 
 To do so, make changes to // guides source files (located here on GitHub) or comments in source code. Then open a pull request to apply your changes to the master branch.
 

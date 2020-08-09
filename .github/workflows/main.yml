@@ -69,6 +69,7 @@ jobs:
       - name: Build website
         run: |
           cd site
+          rm package-lock.json
           yarn build
 
       # Develop website with yarn's gatsby-cli

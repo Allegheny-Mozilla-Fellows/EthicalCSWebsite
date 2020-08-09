@@ -57,7 +57,7 @@ jobs:
         run: |
           cd site
           npm -g i yarn
-          npm -g gatsby-cli
+          npm -g i gatsby-cli
 
       # Build website with yarn's gatsby-cli
       - name: Build website

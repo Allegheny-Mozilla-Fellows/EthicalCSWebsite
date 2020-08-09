@@ -1,0 +1,62 @@
+# Basic workflow
+name: build
+
+# Controls when the action will run
+# workflow begins with push or PR events
+# Focuses on the master branch only
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+# Creates one single job
+# This job performs all necessary checks
+jobs:
+  build:
+    runs-on: ubuntu-lastest
+
+    strategy:
+      matrix:
+        node-version: [8.x, 10.x, 12.x]
+
+    # Define workflow steps
+    steps:
+      # Checkout the code of the repository
+      - name: Check out repository code
+        uses: actions/checkout@v2
+
+      # Check for existence of git files
+      - name: Check for existence of git files
+        uses: andstor/file-existence-action@v1
+        with:
+          files: ".gitmessage, .gitignore"
+
+      # Check for existence of general files
+      - name: Check for existence of contribution files
+        uses: andstor/file-existence-action@v1
+        with:
+          files: "CODE_OF_CONDUCT.md, CONTRIBUTING.md, LICENSE.md, README.md"
+
+      # Check for existence of development files
+      - name: Check for existence of of development files
+        uses: andstor/file-existence-action@v1
+        with:
+          files: "pull_request_template.md, bug_report.md, feature_request.md"
+
+      # Install Yarn
+      name: Install yarn
+      run: |
+        yarn install
+
+      # Build website with yarn's gatsby-cli
+      name: Build website
+      run: |
+        cd site
+        gatsby build
+
+      # Develop website with yarn's gatsby-cli
+      name: Develop website
+      run: |
+        cd site
+        gatsby develop

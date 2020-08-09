@@ -55,6 +55,7 @@ jobs:
       # Install yarn using npm
       - name: Install yarn
         run: |
+          cd site
           npm -g i yarn
 
       # Build website with yarn's gatsby-cli

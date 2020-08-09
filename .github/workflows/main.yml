@@ -69,6 +69,7 @@ jobs:
       - name: Build website
         run: |
           cd site
+          npm install
           rm package-lock.json
           yarn build
 

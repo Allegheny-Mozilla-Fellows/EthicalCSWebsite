@@ -19,7 +19,7 @@ jobs:
     strategy:
       matrix:
         # Preforms all actions with all versions of Nodejs
-        node-version: [8.x, 10.x, 12.x]
+        node-version: [ 10.x , 12.x ]
 
     # Define workflow steps
     steps:
@@ -57,25 +57,16 @@ jobs:
         run: |
           cd site
           npm -g i yarn
+          npm -g gatsby-cli
 
       # Build website with yarn's gatsby-cli
-      #- name: Build website
-      #  run: |
-      #    cd site
-      #    yarn build
+      - name: Build website
+        run: |
+          cd site
+          yarn build
 
       # Develop website with yarn's gatsby-cli
-      #- name: Develop website
-      #  run: |
-      #    cd site
-      #    yarn develop
-
-      - name: Test website
+      - name: Develop website
         run: |
           cd site
-          yarn test
-
-      - name: Develop website 2.0
-        run: |
-          cd site
-          yarn run develop
+          yarn develop

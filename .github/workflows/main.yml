@@ -14,7 +14,7 @@ on:
 # This job performs all necessary checks
 jobs:
   build:
-    runs-on: ubuntu-lastest
+    runs-on: ubuntu-latest
 
     strategy:
       matrix:

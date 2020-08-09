@@ -63,8 +63,6 @@ jobs:
         run: |
           cd site
           yarn build
-        env:
-          ci: true
 
       # Develop website with yarn's gatsby-cli
       - name: Develop website

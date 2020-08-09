@@ -141,6 +141,6 @@ There are multiple ways to check the status of your build
 
 3. Add a continuous integration badge to your `README.md` file, you can click on this to find a list of your builds, this can be done by adding this line of code to your `README.md`
 
-`[![Actions Status](https://github.com/Allegheny-Mozilla-Fellows/predictiveWellness/workflows/build/badge.svg)](link_to_your_repository)`
+`[![Actions Status](https://github.com/Allegheny-Mozilla-Fellows/EthicalCSWebsite/workflows/build/badge.svg)](link_to_your_repository)`
 
 **A green check represents a passing build and a red x represents a failing build, you can investigate these further in each build's summary**

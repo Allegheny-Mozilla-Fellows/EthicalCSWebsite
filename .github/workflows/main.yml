@@ -69,5 +69,13 @@ jobs:
         run: |
           cd site
           yarn develop
-        env:
-          ci: true
+
+      - name: Test website
+        run: |
+          cd site
+          yarn test
+
+      - name: Develop website 2.0
+        run: |
+          cd site
+          yarn run develop

@@ -45,19 +45,30 @@ jobs:
         with:
           files: "pull_request_template.md, bug_report.md, feature_request.md"
 
-      # Install Yarn
+      #Use Node.js/Npm
+      - uses: actions/checkout@v1
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v1
+        with:
+          node-version: ${{ matrix.node-version }}
+
+      # Install yarn using npm
       - name: Install yarn
         run: |
-          yarn install
+          npm -g i yarn
 
       # Build website with yarn's gatsby-cli
       - name: Build website
         run: |
           cd site
-          gatsby build
+          yarn build
+        env:
+          ci: true
 
       # Develop website with yarn's gatsby-cli
       - name: Develop website
         run: |
           cd site
-          gatsby develop
+          yarn develop
+        env:
+          ci: true

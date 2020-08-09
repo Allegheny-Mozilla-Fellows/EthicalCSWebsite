@@ -18,6 +18,7 @@ jobs:
 
     strategy:
       matrix:
+        # Preforms all actions with all versions of Nodejs
         node-version: [8.x, 10.x, 12.x]
 
     # Define workflow steps
@@ -45,18 +46,18 @@ jobs:
           files: "pull_request_template.md, bug_report.md, feature_request.md"
 
       # Install Yarn
-      name: Install yarn
-      run: |
-        yarn install
+      - name: Install yarn
+        run: |
+          yarn install
 
       # Build website with yarn's gatsby-cli
-      name: Build website
-      run: |
-        cd site
-        gatsby build
+      - name: Build website
+        run: |
+          cd site
+          gatsby build
 
       # Develop website with yarn's gatsby-cli
-      name: Develop website
-      run: |
-        cd site
-        gatsby develop
+      - name: Develop website
+        run: |
+          cd site
+          gatsby develop

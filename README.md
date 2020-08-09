@@ -1,4 +1,7 @@
 # Allegheny Ethical CS :crocodile:
+
+[![Actions Status](https://github.com/Allegheny-Mozilla-Fellows/EthicalCSWebsite/workflows/build/badge.svg)](link_to_your_repository)
+
 ### A [website](https://csethics.allegheny.edu) created by the innovative Allegheny Mozilla Fellows team.  
 
 The Department of Computer Science at Allegheny College launched the

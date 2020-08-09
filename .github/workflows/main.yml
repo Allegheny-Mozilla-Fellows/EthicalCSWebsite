@@ -53,11 +53,16 @@ jobs:
           node-version: ${{ matrix.node-version }}
 
       # Install yarn using npm
-      - name: Install yarn
+      - name: Install yarn and gatsby
         run: |
           cd site
           npm -g i yarn
+
+      # Install gatsby and audit the problems
+      - name: Install gatsby and audit
+        run: |
           npm -g i gatsby-cli
+          npm audit fix
 
       # Build website with yarn's gatsby-cli
       - name: Build website

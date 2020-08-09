@@ -65,10 +65,10 @@ jobs:
       #    yarn build
 
       # Develop website with yarn's gatsby-cli
-      - name: Develop website
-        run: |
-          cd site
-          yarn develop
+      #- name: Develop website
+      #  run: |
+      #    cd site
+      #    yarn develop
 
       - name: Test website
         run: |

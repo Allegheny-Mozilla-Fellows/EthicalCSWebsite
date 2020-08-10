@@ -24,23 +24,38 @@ The Department of Computer Science at Allegheny College launched the Allegheny E
 
   * [Gatsbyjs](https://www.gatsbyjs.org/)
   * [Yarn](https://classic.yarnpkg.com/en/)
-  * [Node.js](https://nodejs.org/en/)
   * [Netlify](https://www.netlify.com/)
   * [Gatsby-theme-nehalem](https://github.com/nehalist/gatsby-theme-nehalem)
 
 ## Features
+* Multipage website
+* Search bar navigation
+* Tagging
+
 //
 
 ### Sitemap
 ![Sitemap image](./site/content/assets/Sitemap.png)
-(Updated 8/12/2020 of the [website](https://csethics.allegheny.edu))
+(Updated 8/12/2020 of this [website](https://csethics.allegheny.edu))
 
 ## Getting Started
-//
+
 ### Prerequisites
-//
+The main prerequisite is to have `yarn` installed on your machine. Installation to your machine can be found at [their website](https://classic.yarnpkg.com/en/docs/install). There are ways to use this through `npm` and `nodejs`, however, yarn allows for workspaces which has worked consistently across machines.
+
+Once `yarn` is installed on your machine, you can `cd` into the clone of this repository and type:
+
+```
+yarn install
+```
+
 ### Developing Locally
-//
+In this repository, the website is based out of the "site" folder. This is a workspace labelled as demo. This command below allows for local hosting.
+```
+yarn workspace demo develop
+```
+After this runs, it should prompt that the site is deployed to https://localhost8000.
+
 
 ## Contributing
 

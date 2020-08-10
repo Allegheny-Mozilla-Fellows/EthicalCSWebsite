@@ -50,6 +50,7 @@ Once these are installed on your machine, you can `cd` into your clone of this r
 
 ```
 yarn install
+npm install
 ```
 
 ### Developing Locally

@@ -1,4 +1,4 @@
-# How to contribute
+# How to Contribute
 
 Here are some important resources:
 
@@ -7,11 +7,11 @@ Here are some important resources:
 
 ## Testing
 
-//
+Looking at https://localhost8000 with any changes a developer has added is the main testing done with this repository. Instructions Run local development as detailed on the [ReadMe](https://github.com/Allegheny-Mozilla-Fellows/EthicalCSWebsite/blob/master/README.md) file. This allows for the developer to see the changes to the website before committing anything to the repository.
 
 ## Submitting changes
 
-Please send a [GitHub Pull Request to misinformation](//) with a clear list of what you've done (read more about [pull requests](//)). Please make sure all of your commits are atomic (one feature per commit).
+Please send a [GitHub Pull Request to EthicalCSWebsite](https://github.com/Allegheny-Mozilla-Fellows/EthicalCSWebsite) with a clear list of what you've done (read more about [pull requests](https://github.com/Allegheny-Mozilla-Fellows/EthicalCSWebsite/blob/master/.github/pull_request_template.md)). Please make sure all of your commits are atomic (one feature per commit).
 
 Always write a clear log message for your commits. One-line messages are fine for small changes, but bigger changes should look like this:
 
@@ -25,9 +25,9 @@ Changes that are cosmetic in nature and do not add anything substantial to the s
 
 ## Do you want to contribute to the website's documentation?
 
-You can help improve the website guides by making them more coherent, consistent, or readable, adding missing information, correcting factual errors, fixing typos, or bringing them up to date with the latest //.
+You can help improve the website guides by making them more coherent, consistent, or readable, adding missing information, correcting factual errors, fixing typos, or bringing them up to date with the latest software updates of yarn, npm, and nodejs.
 
-To do so, make changes to // guides source files (located here on GitHub) or comments in source code. Then open a pull request to apply your changes to the master branch.
+To do so, make changes to the website source files (located here on GitHub) or comments in source code. Then open a pull request to apply your changes to the master branch.
 
 ## Do you have questions about the source code?
 

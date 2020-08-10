@@ -44,7 +44,8 @@ The Department of Computer Science at Allegheny College launched the Allegheny E
 Software Required:
 * [`Yarn`](https://classic.yarnpkg.com/en/docs/install)
 * [`Nodejs`](https://nodejs.org/en/)
- *links to download if not yet installed on your machine*
+
+*links are there to download software if not yet installed on your machine*
 
 Once these are installed on your machine, you can `cd` into your clone of this repository and type:
 

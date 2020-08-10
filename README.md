@@ -2,8 +2,6 @@
 
 [![Actions Status](https://github.com/Allegheny-Mozilla-Fellows/EthicalCSWebsite/workflows/build/badge.svg)](https://github.com/Allegheny-Mozilla-Fellows/EthicalCSWebsite/actions)
 
-[![BSD 3-Clause License][license-shield]][https://github.com/Allegheny-Mozilla-Fellows/EthicalCSWebsite/LICENSE.md]
-
 ## Table of Contents
 * [About the Repository](#about-the-repository)
   + [Built With](#built-with)
@@ -34,9 +32,8 @@ The Department of Computer Science at Allegheny College launched the Allegheny E
 //
 
 ### Sitemap
-This is the sitemap of our [website](https://csethics.allegheny.edu).
-
 ![Sitemap image](./site/content/assets/Sitemap.png)
+(Updated 8/12/2020 of the [website](https://csethics.allegheny.edu))
 
 ## Getting Started
 //
@@ -49,7 +46,7 @@ This is the sitemap of our [website](https://csethics.allegheny.edu).
 
 We welcome everyone who is interested in helping improve this project! If you are interested in being a contributor, please review our [Code of Conduct](./CODE_OF_CONDUCT.md) and [Guidelines for Contributors](./CONTRIBUTING.md) before raising an issue, or beginning a contribution.
 
-To create a pull request please follow this [template](./pull_request_template.md)
+To create a pull request please follow this [template](./pull_request_template.md).
 
 ### Contact
 

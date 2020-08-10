@@ -8,5 +8,5 @@ module.exports = {
   siteMetadata:{
     icon: `content/assets/images/favicon.ico`,
   },
-  //plugins: [`@nehalist/gatsby-theme-nehalem`],
+  plugins: [`@nehalist/gatsby-theme-nehalem`],
 };

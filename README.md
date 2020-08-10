@@ -41,9 +41,12 @@ The Department of Computer Science at Allegheny College launched the Allegheny E
 ## Getting Started
 
 ### Prerequisites
-The main prerequisite is to have `yarn` installed on your machine. Installation to your machine can be found at [their website](https://classic.yarnpkg.com/en/docs/install). There are ways to use this through `npm` and `nodejs`, however, yarn allows for workspaces which has worked consistently across machines.
+Software Required:
+* [`Yarn`](https://classic.yarnpkg.com/en/docs/install)
+* [`Nodejs`](https://nodejs.org/en/)
+ *links to download if not yet installed on your machine*
 
-Once `yarn` is installed on your machine, you can `cd` into the clone of this repository and type:
+Once these are installed on your machine, you can `cd` into your clone of this repository and type:
 
 ```
 yarn install

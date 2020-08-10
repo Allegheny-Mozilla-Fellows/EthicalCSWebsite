@@ -61,9 +61,8 @@ jobs:
       # Install gatsby and audit the problems
       - name: Install gatsby and audit
         run: |
-          npm -g i gatsby-cli
-          npm i --package-lock-only
-          npm audit fix
+          cd site
+          yarn add gatsby-cli
 
       # Build website with yarn's gatsby-cli
       - name: Build website

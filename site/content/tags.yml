@@ -1,4 +1,4 @@
-- name: Projects
+- name: Featured
   color: "#007acc"
   icon: "./orange.png"
   featured: true

@@ -1,7 +1,7 @@
 ---
 title: "Proactive Programming"
 path: "/proactive-programming"
-tags: ["Projects"]
+tags: ["Featured"]
 featuredImage: "./programming.JPG"
 excerpt: We believe that students who are taught to be proactive programmers will know how to avoid technical debt and then create more ethical software.
 created: 2020-03-04

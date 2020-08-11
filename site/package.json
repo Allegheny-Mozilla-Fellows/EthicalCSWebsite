@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "gatsby": "^2.13.1",
-    "gatsby-cli": "^2.12.72",
+    "gatsby-cli": "^2.12.80",
     "react": "^16.8.6",
     "react-carbon": "^1.0.7",
     "react-dom": "^16.8.6"

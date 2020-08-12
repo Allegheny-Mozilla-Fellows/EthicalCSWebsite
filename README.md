@@ -28,11 +28,14 @@ The Department of Computer Science at Allegheny College launched the Allegheny E
   * [Gatsby-theme-nehalem](https://github.com/nehalist/gatsby-theme-nehalem)
 
 ## Features
-* Multipage website
-* Search bar navigation
-* Tagging
 
-//
+  * Multiple static page website
+    + Automatically generated archives of posts
+  * Search function
+  * Navigation at header and footer
+  * Posts
+    + Post tagging
+    + Table of Contents/ Header outline
 
 ### Sitemap
 ![Sitemap image](./site/content/assets/Sitemap.png)

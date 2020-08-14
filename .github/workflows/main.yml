@@ -60,6 +60,6 @@ jobs:
       # Build site
       - name: Build website
         run: |
-          rm package-lock.json
+          yarn install 
           yarn global add gatsby-cli
           yarn workspace demo build

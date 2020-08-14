@@ -60,4 +60,5 @@ jobs:
       # Build site
       - name: Build website
         run: |
+          yarn install -g gatsby-cli
           yarn workspace demo build

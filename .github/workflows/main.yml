@@ -60,6 +60,13 @@ jobs:
       # Build site
       - name: Build website
         run: |
-          yarn install 
+          yarn install
           yarn global add gatsby-cli
           yarn workspace demo build
+
+      # Develop site
+      - name: Develop website
+        run: |
+          yarn install
+          yarn global add gatsby-cli
+          yarn workspace demo develop

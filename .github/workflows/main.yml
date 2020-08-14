@@ -53,9 +53,9 @@ jobs:
           node-version: ${{ matrix.node-version }}
 
       # try npm install
-      name: Install npm
-      run: |
-        npm install
+      - name: Install npm
+        run: |
+          npm install
 
       # Install yarn using npm
       - name: Install yarn

@@ -57,3 +57,8 @@ jobs:
         run: |
           cd site
           npm -g i yarn
+
+      # Build site
+      - name: Build website
+        run: |
+          yarn workspace demo build

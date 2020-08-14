@@ -57,24 +57,3 @@ jobs:
         run: |
           cd site
           npm -g i yarn
-
-      # Install gatsby and audit the problems
-      - name: Install gatsby and audit
-        run: |
-          cd site
-          yarn add gatsby-cli
-
-      # Build website with yarn's gatsby-cli
-      - name: Build website
-        run: |
-          cd site
-          npm install
-          npm audit fix
-          rm package-lock.json
-          yarn build
-
-      # Develop website with yarn's gatsby-cli
-      - name: Develop website
-        run: |
-          cd site
-          yarn develop

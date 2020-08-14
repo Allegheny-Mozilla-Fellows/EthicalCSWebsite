@@ -51,11 +51,6 @@ jobs:
         with:
           node-version: ${{ matrix.node-version }}
 
-      # Install npm
-      - name: Install npm
-        run: |
-          npm install
-          
       # Install yarn using npm
       - name: Install yarn
         run: |
@@ -65,5 +60,7 @@ jobs:
       # Build site
       - name: Build website
         run: |
+          npm install
+          rm package-lock.json
           yarn global add gatsby-cli
           yarn workspace demo build

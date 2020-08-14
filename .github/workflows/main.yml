@@ -51,6 +51,11 @@ jobs:
         with:
           node-version: ${{ matrix.node-version }}
 
+      # Install npm
+      - name: Install npm
+        run: |
+          npm install
+          
       # Install yarn using npm
       - name: Install yarn
         run: |

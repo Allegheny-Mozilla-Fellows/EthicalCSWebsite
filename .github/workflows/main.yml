@@ -70,3 +70,5 @@ jobs:
           yarn install
           yarn global add gatsby-cli
           yarn workspace demo develop
+        env:
+          ci: true

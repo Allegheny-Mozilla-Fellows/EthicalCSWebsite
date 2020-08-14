@@ -46,7 +46,6 @@ jobs:
           files: "pull_request_template.md, bug_report.md, feature_request.md"
 
       #Use Node.js/Npm
-      - uses: actions/checkout@v1
       - name: Use Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v1
         with:

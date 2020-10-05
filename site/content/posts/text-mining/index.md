@@ -1,7 +1,7 @@
 ---
 title: "Text Mining and Analysis"
 path: "/text-mining-and-analysis"
-tags: ["Featured"]
+tags: ["Proactive Programming"]
 featuredImage: "./sentiment-bars.png"
 excerpt: In this project, we present an automated text-mining tool written in Python to assist the department in measuring the technical responsibility of students across our department’s computer science curriculum.
 created: 2020-02-05

@@ -1,4 +1,4 @@
-- name: Featured
+- name: Proactive Programming
   color: "#007acc"
   icon: "./orange.png"
   featured: true

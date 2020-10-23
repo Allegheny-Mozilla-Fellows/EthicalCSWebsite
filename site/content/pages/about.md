@@ -12,22 +12,22 @@ The Allegheny Mozilla Fellows program at Allegheny College includes students maj
 
 **Mozilla Fellows who have contributed to the project so far:** <br /> (Asterisks* signify current Mozilla Fellows)
 
-Teona Bagashvili <br />
+[Teona Bagashvili](/tag/bagashvili) <br />
 Matthew Baldeosingh <br />
 Isaac Barrezueta <br />
 Pedro Carmo <br />
-Declan Casey* <br />
+[Declan Casey *](/tag/casey) <br />
 Adam Cook <br />
 Megan Corletti <br />
-Kate Folkenroth* <br />
-Madelyn Kapfhammer* <br />
+Kate Folkenroth * <br />
+[Madelyn Kapfhammer *](/tag/kapfhammer) <br />
 Bailey Matrascia <br />
 Sweta Rauniyar <br />
 Hannah Schultz <br />
 Daniel Ullrich <br />
-Jordan Wilson <br />
+[Jordan Wilson](/tag/wilson) <br />
 Elisia Wright <br />
 Lancaster Wu <br />
-Enpu You*
+[Enpu You *](/tag/you)
 
 <br />

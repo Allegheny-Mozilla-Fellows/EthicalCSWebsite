@@ -4,7 +4,7 @@ const Theme: DefaultTheme = {
   layout: {
     backgroundColor: `#fafafa`,
     primaryColor: `#a4cbb8`,
-    linkColor: `#a4cbb8`,
+    linkColor: `#6f8c7e`,
   },
   breakpoints: {
     xs: `425px`,

@@ -1,7 +1,7 @@
 ---
 title: "Bias in Automated Face-Recognition"
 path: "/bias-in-automated-face-recognition"
-tags: ["Curricular Ethics"]
+tags: ["Curricular Ethics", "Bagashvili"]
 featuredImage: "./tempFace.png"
 excerpt: As facial recognition technologies gain popularity there are some privacy and ethical concerns rising regarding the development and use of these tools.
 created: 2020-08-04

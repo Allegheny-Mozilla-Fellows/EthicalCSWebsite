@@ -1,7 +1,7 @@
 ---
 title: "Misinformation and Ethical Concern"
 path: "/misinformation-and-ethical-concern"
-tags: ["Curricular Ethics"]
+tags: ["Curricular Ethics", "Casey"]
 featuredImage: "./fakenews.png"
 excerpt: With the reliance on social media as a source of news and for nearly all information we consume, it has become very easy for misinformation to spread.
 created: 2020-08-04

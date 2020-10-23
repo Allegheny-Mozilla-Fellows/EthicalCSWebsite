@@ -1,9 +1,34 @@
 - name: Proactive Programming
-  color: "#007acc"
+  color: "#bd8b00"
   icon: "./orange.png"
   featured: true
 
 - name: Curricular Ethics
-  color: "#007acc"
+  color: "#041bcc"
   icon: "./blue.png"
   featured: true
+
+- name: Bagashvili
+  color: "#6f8c7e"
+  icon: ""
+  featured: false
+
+- name: Casey
+  color: "#6f8c7e"
+  icon: ""
+  featured: false
+
+- name: Kapfhammer
+  color: "#6f8c7e"
+  icon: ""
+  featured: false
+
+- name: Wilson
+  color: "#6f8c7e"
+  icon: ""
+  featured: false
+
+- name: You
+  color: "#6f8c7e"
+  icon: ""
+  featured: false

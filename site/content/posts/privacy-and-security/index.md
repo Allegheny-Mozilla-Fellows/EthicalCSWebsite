@@ -1,7 +1,7 @@
 ---
 title: "Privacy, Security, and Ethics"
 path: "/privacy-security-and-ethics"
-tags: ["Curricular Ethics"]
+tags: ["Curricular Ethics", "Wilson"]
 featuredImage: "./security-banking.png"
 excerpt: Databases contain lots of information of a personal nature. This project is centered on being classroom lab that focuses on the ease to hack a database.
 created: 2020-08-04

@@ -1,7 +1,7 @@
 ---
 title: "Health and AI"
 path: "/healthandai"
-tags: ["Curricular Ethics"]
+tags: ["Curricular Ethics", "Kapfhammer"]
 featuredImage: "./vigor.png"
 excerpt: One in five adults living in the United States uses fitness trackers and health-related applications daily. With this continuously growing statistic, arise ethical concerns of big data collection, and how our fitness data can be used.
 created: 2020-07-14

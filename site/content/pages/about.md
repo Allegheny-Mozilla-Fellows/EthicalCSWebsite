@@ -1,13 +1,13 @@
 ---
 title: About Us
 path: "/about"
-excerpt: A page about the Allegheny Mozilla Fellows Program.
+excerpt: Ethics Technical Leaders.
 ---
-![Members of the Fellows Program](./group2.jpg)
+![Ethics Technical Leaders](./group2.jpg)
 
-## The Allegheny Mozilla Fellows Program
+## The Allegheny Ethics Technical Leaders
 
-The Allegheny Mozilla Fellows program at Allegheny College includes students majoring in Computer Science who work on various projects for the Allegheny Ethical CS initiative. They develop automated grading and analyzing tools, they help create concepts and implementations for class activities and lab assignments, they do testing, they run focus groups and break out sessions. Throughout their work, Mozilla Fellows also gain a valuable insight from interrogating issues of social responsibility in computing and from reflecting on their own computer science studies.
+The Allegheny Ethical Computer Science Initiative at Allegheny College involves Ethics Technical Leaders (ETLs) who work on various projects for this initiative. They develop automated grading and analyzing tools,  help create concepts and implementations for class activities and lab assignments, implement testing, run focus groups and break out sessions. Throughout their work, ETLs also gain a valuable insight from interrogating issues of social responsibility in computing and from reflecting on their own computer science studies.
 <br /><br />
 
 **Mozilla Fellows who have contributed to the project so far:** <br /> (Asterisks* signify current Mozilla Fellows)

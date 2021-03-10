@@ -5,7 +5,7 @@ tags: ["Curricular Ethics"]
 featuredImage: "./demo.JPG"
 excerpt: Training students in building a healthier internet for all is essential if we want to create a shift in the tech industry where the software is being developed with ethical considerations in mind.
 created: 2020-02-12
-updated: 2020-02-12
+updated: 2021-03-10
 ---
 
 Training students in building a healthier internet for all is essential if we want to create a shift in the tech industry where the software is being developed with ethical considerations in mind. We believe that investigating and articulating relevant ethical challenges in our college’s application courses such as Artificial Intelligence, Data Analytics, Robotic Agents, Bioinformatics, Web Development and Database Systems, our students’ educational foundations will be enhanced to grant many meaningful pathways to responsibly design and develop applications in computer technology. [Our work](https://github.com/Allegheny-Ethical-CS) includes a curricular roadmap of application courses that include assignments that integrate ethical thinking, structure of relevant readings and class discussions, as well as, the evaluation of student technical and reflective work throughout the process of designing and developing responsible technological systems.

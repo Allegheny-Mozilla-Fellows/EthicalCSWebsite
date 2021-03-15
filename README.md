@@ -1,6 +1,6 @@
 # Allegheny Ethical CS :crocodile:
 
-[![Actions Status](https://github.com/Allegheny-Mozilla-Fellows/EthicalCSWebsite/workflows/build/badge.svg)](https://github.com/Allegheny-Mozilla-Fellows/EthicalCSWebsite/actions)
+[![Actions Status](https://github.com/Allegheny-Ethical-CS/EthicalCSWebsite/workflows/build/badge.svg)](https://github.com/Allegheny-Ethical-CS/EthicalCSWebsite/actions)
 
 ## Table of Contents
 * [About the Repository](#about-the-repository)
@@ -18,7 +18,7 @@
 
 ### A [website](https://csethics.allegheny.edu) created by the innovative Allegheny Mozilla Fellows team.  
 
-The Department of Computer Science at Allegheny College launched the Allegheny Ethical CS initiative that aims to integrate responsible computing into its curriculum. This work, funded by the [Mozilla Responsible CS Challenge](https://foundation.mozilla.org/en/initiatives/responsible-cs/) grant, accomplishes this goal in a multitude of ways, including the establishment of the Allegheny Mozilla Fellows program, development of application-level course materials, as well as the creation and implementation of the proactive programming principles.
+The Department of Computer Science at Allegheny College launched the Allegheny Ethical CS initiative that aims to integrate responsible computing into its curriculum. This work, funded by the [Mozilla Responsible CS Challenge](https://foundation.mozilla.org/en/initiatives/responsible-cs/) grant, accomplishes this goal in a multitude of ways, including the establishment of the Ethics Technical Leaders program, development of application-level course materials, as well as the creation and implementation of the proactive programming principles.
 
 ### Built with
 

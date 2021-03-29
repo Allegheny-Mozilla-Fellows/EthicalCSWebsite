@@ -13,7 +13,6 @@
   },
   "dependencies": {
     "gatsby": "2.17.16",
-    "gatsby-cli": "2.17.16",
     "react": "^16.8.6",
     "react-carbon": "^1.0.7",
     "react-dom": "^16.8.6"

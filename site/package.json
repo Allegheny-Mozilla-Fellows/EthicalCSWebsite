@@ -12,15 +12,12 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
   },
   "dependencies": {
-<<<<<<< HEAD
     "gatsby": "^3.1.2",
     "gatsby-cli": "^3.1.0",
     "react": "^17.0.2",
-=======
     "gatsby": "^2.17.16",
     "gatsby-cli": "^2.17.16",
     "react": "^16.8.6",
->>>>>>> 380ea81e229bf45d8d2577a7d02c01e9961abcc0
     "react-carbon": "^1.0.7",
     "react-dom": "^17.0.2"
   },

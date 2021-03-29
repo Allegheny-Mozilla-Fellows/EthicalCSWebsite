@@ -21,12 +21,12 @@
   "main": "index.js",
   "license": "MIT",
   "peerDependencies": {
-    "gatsby": "^2.13.1",
+    "gatsby": "^2.1.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
   },
   "devDependencies": {
-    "gatsby": "^2.13.1",
+    "gatsby": "^3.1.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "stylelint": "^10.1.0",
@@ -44,7 +44,7 @@
     "gatsby-image": "^2.2.6",
     "gatsby-plugin-feed": "^2.3.5",
     "gatsby-plugin-lunr": "^1.5.1",
-    "gatsby-plugin-manifest": "^2.2.4",
+    "gatsby-plugin-manifest": "^2.1.0",
     "gatsby-plugin-mdx": "^1.0.13",
     "gatsby-plugin-page-creator": "^2.1.5",
     "gatsby-plugin-react-helmet": "^3.1.2",
